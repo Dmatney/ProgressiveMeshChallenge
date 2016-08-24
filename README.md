@@ -8,32 +8,45 @@ Purely C++ - no java, C#, Python, Perl, Haskell, Lisp, Pascal, Fortran, Assembly
 
 Given a 3D model defined as an array of v vertices (defined via 3 floats x, y, z) and an array of t triangles (defined via 3 indices into the array of vertices). We will supply 3 models to experiment with in a custom json and Wavefront obj format.
 Use of Visual Studio 2015 is recommended; it can be downloaded for free from the link below.
+
 •	https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx
 
 Extract and implement the Hugues Hoppe progressive mesh functionality using the types defined in the supplied header file CommonTypes.h (Some will recognize these types as being a subset of the types used in the Unreal Engine). Fully functional code to do this (and many, many other things) is available in the link below.
+
 •	Paper: http://hhoppe.com/pm.pdf
+
 •	Source code: https://rawgit.com/Microsoft/Mesh-processing-library/master/README.html
 
 Add in the Gortler tweak from the following paper to ensure the progressive mesh remains inside the original mesh for all splits. It’s in the “Section 3 – Progressive Hull – Interior volume” section.
+
 •	http://cs.harvard.edu/~sjg/papers/silclip.pdf
+
 Save the results in a json file.
 
 We have added a stub project to GitHub for you to get a head start.
+
 •	https://github.com/primal-space-systems/ProgressiveMeshChallenge
 
 The deadline for submission (which is an email sent to info@primalspacesystems.com with a link to a download site) by midnight EDT on September 30th 2016.
 
 How the winner will be chosen
+
 •	The code generates a progressive mesh that is always inside the original mesh a.k.a. the code works.
+
 •	The code uses all the correct types, good variable naming, and is easy to follow a.k.a. the best written code.
+
 •	The code finds a good balance between ease of use and configurability.
 
 The small print:
+
 •	Multiple participants could be invited to a follow up interview, but a job offer is not guaranteed, but will be contingent upon further assessment of the candidate.
+
 •	The winning submission belongs to Primal Space Systems, Inc.
+
 •	The winner is decided purely at the discretion of the programmers at Primal Space.
 
 Primal Space Systems, Inc. is a Raleigh based startup technology company working on innovative occlusion algorithms for automatic navigation and game streaming. 
+
 http://www.primalspacesystems.com/
 
 
