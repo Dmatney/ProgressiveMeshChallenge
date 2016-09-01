@@ -12,6 +12,7 @@ Given a 3D model defined as an array of v vertices (defined via 3 floats x, y, z
 Use of Visual Studio 2015 is recommended; it can be downloaded for free from the link below
 
 •	https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx
+
 Extract and implement the Hugues Hoppe progressive mesh functionality using the types defined in the supplied header file CommonTypes.h (Some will recognize these types as being a subset of the types used in the Unreal Engine). Fully functional code to do this and many, many other things is available in the link below.
 
 •	Paper: http://hhoppe.com/pm.pdf
