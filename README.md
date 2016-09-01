@@ -4,6 +4,7 @@ Programming competition – prize $1000!
 Primal Space Systems, Inc. is looking for skilled programmers, and we’re giving out cold hard cash for doing the type of coding we do. Think of it as a chance of getting paid for a job interview.
 
 
+
 Requirements:
 
 Purely C++ - no java, C#, Python, Perl, Haskell, Lisp, Pascal, Fortran, Assembly – just C++ 11 with STL please.
@@ -33,6 +34,8 @@ Submissions should be sent via email to info@primalspacesystems.com with a link 
 
 The deadline for submission is midnight EDT on September 30th 2016.
 
+
+
 How the winner will be chosen:
 
 •	The code generates a progressive mesh that is always inside the original mesh (i.e., the code works).
@@ -40,6 +43,8 @@ How the winner will be chosen:
 •	The code uses all the correct types, good variable naming, and is easy to follow (i.e., the best written code).
 
 •	The code finds a good balance between ease of use and configurability.
+
+
 
 The small print:
 
